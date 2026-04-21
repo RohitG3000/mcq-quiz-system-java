@@ -1,0 +1,10 @@
+What is Java?|Language|Operating System|Hardware|Browser|0
+Which is not an OOP concept?|Encapsulation|Polymorphism|Compilation|Inheritance|2
+Which keyword is used to inherit a class in Java?|this|super|extends|implements|2
+Which method is the entry point of Java program?|start()|main()|run()|init()|1
+Which of these is a loop?|if|for|switch|case|1
+Which package contains Scanner class?|java.util|java.io|java.lang|java.net|0
+Which data type is used to store decimal values?|int|float|char|string|1
+Which symbol is used for single-line comments in Java?|//|##|<!--|**|0
+Which operator is used for comparison?|=|==|!=|&&|1
+Which keyword is used to create an object?|new|create|make|init|0
