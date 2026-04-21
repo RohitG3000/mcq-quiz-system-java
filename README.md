@@ -83,7 +83,7 @@ Users can add, remove, or change questions without modifying the code.
 
 ## Screenshots
 
-Screenshots available in the `screenshots/` folder.
+Screenshots available in the `app_screenshots/` folder.
 
 ---
 
