@@ -31,21 +31,21 @@ This application presents multiple-choice questions with a timer, provides insta
 
 ## Project Structure
 
-
+```
 Quiz Project/
 │
 ├── QuizApp.java
 ├── questions.txt
 ├── sounds/
-│ ├── correct.wav
-│ ├── wrong.wav
-│ └── timer.wav
+│   ├── correct.wav
+│   ├── wrong.wav
+│   └── timer.wav
 ├── app_screenshots/
-│ ├── correct.png
-│ ├── wrong.png
-│ ├── result.png
-│ └── quiz-start.png
-
+│   ├── correct.png
+│   ├── wrong.png
+│   ├── result.png
+│   └── quiz-start.png
+```
 
 ---
 
