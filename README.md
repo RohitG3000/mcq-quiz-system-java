@@ -79,6 +79,14 @@ java QuizApp
 Questions can be modified by editing the `questions.txt` file.  
 Users can add, remove, or change questions without modifying the code.
 
+---
+
+## Screenshots
+
+Screenshots available in the `screenshots/` folder.
+
+---
+
 ## Author
 
 Rohit Gupta
