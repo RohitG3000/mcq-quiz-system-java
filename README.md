@@ -32,54 +32,46 @@ This application presents multiple-choice questions with a timer, provides insta
 ## Project Structure
 
 
-Quiz Project/
-│
-├── QuizApp.java
-├── questions.txt
-├── sounds/
-│ ├── correct.wav
-│ ├── wrong.wav
-│ └── timer.wav
+QuizApp.java
+questions.txt
+sounds/
+correct.wav
+wrong.wav
+timer.wav
+app_screenshots/
+correct.png
+wrong.png
+result.png
+quiz-start.png
 
+
+---
+
+## Customization
+
+Questions can be modified by editing the `questions.txt` file.  
+Users can add, remove, or change questions without modifying the code.
+
+---
+
+## Screenshots
+
+Available in the `app_screenshots/` folder.
 
 ---
 
 ## How to Run
 
-1. Compile the program:
 
 javac QuizApp.java
-
-
-2. Run the application:
-
 java QuizApp
 
-
----
-
-## Requirements
-
-- Java JDK 8 or higher
-
----
-
-## How It Works
-
-- Questions are loaded from a text file
-- Each question is displayed with four options
-- A timer runs for each question
-- User selects an answer and proceeds
-- System evaluates answers and gives feedback
-- Final score and grade are displayed
 
 ---
 
 ## Author
 
 Rohit Gupta
-
----
 
 ## Note
 
