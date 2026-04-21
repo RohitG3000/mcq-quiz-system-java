@@ -32,9 +32,6 @@ This application presents multiple-choice questions with a timer, provides insta
 ## Project Structure
 
 
-## Project Structure
-
-
 Quiz Project/
 │
 ├── QuizApp.java
